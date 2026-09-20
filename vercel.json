@@ -1,8 +1,8 @@
+
 {
-  "$schema": "https://openapi.vercel.sh/vercel.json",
   "functions": {
-    "api/webhook.py": {
+    "api/index.py": {
       "maxDuration": 60
     }
   }
-} 
+}
